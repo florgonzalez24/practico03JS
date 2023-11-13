@@ -26,7 +26,7 @@ document.write(`La segunda ciudad ingresada es ${ciudades[1]}`);
 
 ciudades[1] = 'Barcelona';
 
-document.write('<h2>Ciudades actualizadas: </h2>');
+document.write('<h2>Arreglo de ciudades </h2>');
 
 document.write(`<ol>`);
 
